@@ -1,6 +1,6 @@
 # 📰 Personalized News Architect (AI-Agent)
 
-[![Live Demo](https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)](YOUR_LIVE_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)](https://ak1409-personalized-news.hf.space)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Llama 3.3](https://img.shields.io/badge/Model-Llama_3.3-04100b?style=for-the-badge&logo=meta)](https://groq.com/)
 [![Groq](https://img.shields.io/badge/Inference-Groq_Fast-f55036?style=for-the-badge&logo=fastapi)](https://groq.com/)
