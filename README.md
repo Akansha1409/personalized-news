@@ -27,6 +27,20 @@ In a world of constant notification noise, this tool filters thousands of headli
 
 ---
 
+### 🛠️ Technical Stack
+
+```python
+# The foundational technologies powering the News Architect
+stack = {
+    "Core Language": "Python 3.13",
+    "LLM Engine": "Llama 3.1 (70B) via Groq Cloud Inference",
+    "Data Source": "NewsAPI.org (Real-time REST API)",
+    "Analysis Tools": ["Pandas", "Matplotlib", "Seaborn"],
+    "Web Interface": "Streamlit (Community Cloud)",
+    "Architecture": "Agentic AI Pipeline"
+}
+```
+
 ## 📁 Project Structure
 ```text
 ├── analysis.ipynb        # Data Research (50-article fetch + Charts)
