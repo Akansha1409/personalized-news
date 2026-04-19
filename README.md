@@ -27,18 +27,22 @@ In a world of constant notification noise, this tool filters thousands of headli
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
-```python
-# The foundational technologies powering the News Architect
-stack = {
-    "Core Language": "Python 3.13",
-    "LLM Engine": "Llama 3.1 (70B) via Groq Cloud Inference",
-    "Data Source": "NewsAPI.org (Real-time REST API)",
-    "Analysis Tools": ["Pandas", "Matplotlib", "Seaborn"],
-    "Web Interface": "Streamlit (Community Cloud)",
-    "Architecture": "Agentic AI Pipeline"
-}
+<div align="center">
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core Engine** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Llama 3.3](https://img.shields.io/badge/Llama_3.3-04100b?style=for-the-badge&logo=meta&logoColor=white) |
+| **Inference** | ![Groq](https://img.shields.io/badge/Groq_Cloud-f55036?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Data Source** | ![NewsAPI](https://img.shields.io/badge/NewsAPI-000000?style=for-the-badge&logo=rss&logoColor=white) |
+| **Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
+| **Interface** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
+
+</div>
+
+---
+
 ```
 
 ## 📁 Project Structure
