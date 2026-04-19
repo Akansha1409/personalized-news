@@ -17,7 +17,7 @@ In a world of constant notification noise, this tool filters thousands of headli
 > **Exploratory Data Analysis (Jupyter Notebook)**
 > *Analyzed 50+ live articles to identify source dominance and publication trends.*
 
-![Media Landscape Chart](URL_TO_YOUR_SCREENSHOT_HERE)
+![Media Landscape Chart](https://github.com/Akansha1409/personalized-news/blob/main/media-lanscape.png.png)
 
 ### **Key Features:**
 - **Automated Aggregation:** Connects to **NewsAPI** to pull the latest headlines across any topic (AI, Finance, Sports).
