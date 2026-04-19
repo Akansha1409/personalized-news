@@ -29,17 +29,16 @@ In a world of constant notification noise, this tool filters thousands of headli
 
 ## 🛠️ Technical Stack
 
-<div align="center">
-
-| Category | Tools & Technologies |
+| Category | Technology Used |
 | :--- | :--- |
-| **Core Engine** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Llama 3.3](https://img.shields.io/badge/Llama_3.3-04100b?style=for-the-badge&logo=meta&logoColor=white) |
-| **Inference** | ![Groq](https://img.shields.io/badge/Groq_Cloud-f55036?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Data Source** | ![NewsAPI](https://img.shields.io/badge/NewsAPI-000000?style=for-the-badge&logo=rss&logoColor=white) |
-| **Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| **Interface** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) |
-
-</div>
+| **Programming Language** | Python 3.13 |
+| **Generative AI Model** | Llama 3.3 (70B) |
+| **Inference Engine** | Groq Cloud API |
+| **Data Retrieval** | NewsAPI (REST API) |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn |
+| **Web Framework** | Streamlit |
+| **Environment** | Dotenv, Virtual Environments |
 
 ---
 
